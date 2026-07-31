@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# Reinforcement Learning (BL.SC.P2CSE25019)
 
 This repository contains lab programs for Reinforcement Learning coursework.
 
